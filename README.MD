@@ -230,25 +230,6 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ---
 
-## 📸 Capturas de Tela
-
-### Página Principal (Tema Escuro)
-```
-[Insira aqui uma captura de tela da página principal]
-```
-
-### Editor de Posts com Barra de Ferramentas
-```
-[Insira aqui uma captura de tela do editor]
-```
-
-### Gerenciamento de Usuários
-```
-[Insira aqui uma captura de tela do gerenciamento de usuários]
-```
-
----
-
 ## 🔮 Próximas Funcionalidades
 
 - [ ] Sistema de notificações em tempo real
@@ -264,7 +245,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 📞 Suporte
 
-Para suporte, abra uma issue no GitHub ou entre em contato pelo email: `seu-email@dominio.com`
+Para suporte, abra uma issue no GitHub.
 
 ---
 
