@@ -1478,3 +1478,90 @@ body::before {
         max-height: 200px;
     }
 }
+
+/* ============================================
+   SERVER MANAGER
+   ============================================ */
+
+.service-item input {
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+}
+
+.service-item .btn-outline-danger {
+    padding: 0 12px;
+    font-size: 1.2rem;
+    line-height: 1;
+}
+
+.service-item .btn-outline-danger:hover {
+    background: #ff1744;
+    color: white;
+    border-color: #ff1744;
+}
+
+#serverFormContainer {
+    animation: fadeIn 0.3s ease;
+}
+
+#serverManagerList .d-flex {
+    transition: all 0.2s ease;
+}
+
+#serverManagerList .d-flex:hover {
+    background: rgba(124, 92, 252, 0.05) !important;
+}
+
+#serversList .server-group {
+    border-bottom: 1px solid var(--border-color);
+    padding: 14px 20px;
+    transition: all 0.2s ease;
+}
+
+#serversList .server-group:hover {
+    background: rgba(124, 92, 252, 0.05);
+}
+
+#serversList .server-group h6 {
+    color: var(--text-primary);
+    font-family: var(--font-mono);
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#serversList .server-group h6::before {
+    content: '⚙ ';
+    color: var(--accent-primary);
+}
+
+#serversList .server-group ul li {
+    margin: 4px 0;
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+}
+
+#serversList .server-group ul li a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+#serversList .server-group ul li a:hover {
+    color: var(--accent-primary);
+    padding-left: 4px;
+}
+
+.badge-server {
+    background: var(--gradient-primary);
+    color: white;
+    padding: 2px 10px;
+    border-radius: 4px;
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}

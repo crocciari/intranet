@@ -1,6 +1,7 @@
 # Criar pastas e arquivos .gitkeep
 mkdir -p _intra_posts_json
 mkdir -p _intra_users_json
+mkdir -p _intra_server_json
 mkdir -p logs
 mkdir -p cache
 mkdir -p tmp
@@ -9,6 +10,7 @@ mkdir -p uploads
 # Criar os arquivos .gitkeep
 touch _intra_posts_json/.gitkeep
 touch _intra_users_json/.gitkeep
+touch _intra_server_json/.gitkeep
 touch logs/.gitkeep
 touch cache/.gitkeep
 touch tmp/.gitkeep
