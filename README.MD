@@ -208,7 +208,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👨‍💻 Autor
 
-**Seu Nome** - [GitHub](https://github.com/seu-usuario)
+**Crocciari** - [GitHub](https://github.com/crocciari)
 
 ---
 
